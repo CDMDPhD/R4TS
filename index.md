@@ -1,5 +1,5 @@
 ---
-title:
+title: "Hello world."
 ---
 
-I'm glad you are here. I plan to talk about ...
+A blog space for all things plants, animals, and the planet.
